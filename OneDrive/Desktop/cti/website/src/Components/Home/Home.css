@@ -128,6 +128,9 @@
     #container{
         height: 50vh;
     }
+    .home__heading p{
+        font-size: 20px;
+    }
 }
 
 
